@@ -4,6 +4,7 @@
 - 🌱 Estou aprendendo JavaScript, UX Design, Salesforce e Metodologia Ágil com Scrum.
 - 🎓 Atualmente estudo Sistemas para Internet na FATEC São Roque
 - 📫 Contate-me no E-mail: gcbrujas@gmail.com
+- Curriculo disponível para acesso no meu repositorio giochagasb!
 
 <div align="center">
   <a href="https://github.com/giochagasb">
